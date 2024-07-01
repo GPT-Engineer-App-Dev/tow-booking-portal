@@ -1,4 +1,4 @@
-function Index() {
+function Home() {
   return (
     <div>
       <h1 className="text-3xl text-center">Welcome to Tow Service Booking</h1>
@@ -9,4 +9,4 @@ function Index() {
   );
 }
 
-export default Index;
+export default Home;
